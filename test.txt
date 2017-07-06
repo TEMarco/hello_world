@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Aenderung local
+=======
+Änderung in GitHub
+>>>>>>> c6d968ec2bdb3eee371f1528984129904240cb72
